@@ -1,2 +1,6 @@
-
+try {
+    aa
+} catch (error) {
+    
+}
 
